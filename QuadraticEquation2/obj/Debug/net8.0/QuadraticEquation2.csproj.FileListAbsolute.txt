@@ -1,0 +1,14 @@
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\bin\Debug\net8.0\QuadraticEquation2.exe
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\bin\Debug\net8.0\QuadraticEquation2.deps.json
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\bin\Debug\net8.0\QuadraticEquation2.runtimeconfig.json
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\bin\Debug\net8.0\QuadraticEquation2.dll
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\bin\Debug\net8.0\QuadraticEquation2.pdb
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\obj\Debug\net8.0\QuadraticEquation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\obj\Debug\net8.0\QuadraticEquation2.AssemblyInfoInputs.cache
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\obj\Debug\net8.0\QuadraticEquation2.AssemblyInfo.cs
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\obj\Debug\net8.0\QuadraticEquation2.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\obj\Debug\net8.0\QuadraticEquation2.dll
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\obj\Debug\net8.0\refint\QuadraticEquation2.dll
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\obj\Debug\net8.0\QuadraticEquation2.pdb
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\obj\Debug\net8.0\QuadraticEquation2.genruntimeconfig.cache
+C:\Users\ANGEL\desktop\mate-c\QuadraticEquation2\obj\Debug\net8.0\ref\QuadraticEquation2.dll
